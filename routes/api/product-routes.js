@@ -140,12 +140,12 @@ router.delete('/:id', (req, res) => {
       id: req.params.id
     }
   })
-  .then(dbCategoryData => {
-    if (!dbCategoryData) {
+  .then(dbProductData => {
+    if (!dbProductData) {
       res.status(400).json({ message: 'No product with that id found'});
       return;
     }
-    res.json(dbCategoryData);
+    res.json(dbProductData);
   })
   .catch(err => {
     console.log(err);
