@@ -26,7 +26,7 @@
   
   ## Walkthrough-Link
   
-  [Walkthrough Video](https://drive.google.com/file/d/1cTqGUCnk9Cwec32F54YvOXZ8Gp7P_We_/view){:target="_blank"}
+  [Walkthrough Video](https://drive.google.com/file/d/1cTqGUCnk9Cwec32F54YvOXZ8Gp7P_We_/view)
   
   
   ## Result-Screenshot
@@ -39,7 +39,7 @@
   
   
   ## Questions
-  GitHub: [J2021T](https://github.com/J2021T){:target="_blank"}
+  GitHub: [J2021T](https://github.com/J2021T)
 
   EMAIL: [jordan.turcott@gmail.com](mailto:jordan.turcott@gmail.com)
   
