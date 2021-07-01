@@ -26,12 +26,12 @@
   
   ## Walkthrough-Link
   
-  [Walkthrough Video]()
+  [Walkthrough Video](https://drive.google.com/file/d/1cTqGUCnk9Cwec32F54YvOXZ8Gp7P_We_/view)
   
   
   ## Result-Screenshot
   
-  ![Alt-text](assets/images/*REMOVE AND ADD YOUR FILE NAME*.png "PLACE YOUR ALT TEXT HERE")
+  ![Alt-text](assets/images/app-screenshot.png "Insomnia Core application working screenshot")
   
   
   ## Tests
